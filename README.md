@@ -27,15 +27,15 @@ To directly open the notebook in Google Colab, click the button below:
 ### Option 2: Clone the Repository and Run Locally
 1. **Clone the repository** using Git:
    ```sh
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/manishashetty29/-Monoalphabetic-cipher.git
    ```
 2. **Navigate to the project directory**:
    ```sh
-   cd YOUR_REPOSITORY_NAME
+   cd Monoalphabetic-cipher
    ```
 3. **Run the script** in Python:
    ```sh
-   python script.py
+   python Monoalphabetic-cipher.ipynb
    ```
 
 ## 📜 Code Explanation
