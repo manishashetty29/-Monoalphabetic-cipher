@@ -22,7 +22,7 @@ Decrypted Text: hello
 ### Option 1: Open in Google Colab
 To directly open the notebook in Google Colab, click the button below:
 
-[![Open in Colab]
+### https://colab.research.google.com/github/manishashetty29/-Monoalphabetic-cipher/blob/main/Monoalphabetic_cipher.ipynb
 
 ### Option 2: Clone the Repository and Run Locally
 1. **Clone the repository** using Git:
@@ -82,9 +82,5 @@ print("Decrypted Text:", decrypting_text)
 ✅ Works on Google Colab & locally
 ✅ Easy to clone and run
 
-## 📢 Contributing
-Feel free to fork the repository and enhance the functionality. Contributions are welcome!
 
-## 📜 License
-This project is licensed under the MIT License.
 
